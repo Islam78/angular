@@ -1,0 +1,29 @@
+.backgorund
+{
+  background-image: url(../../../assets/images/background.jpg);
+  height: 900px;background-repeat: no-repeat;
+  background-size: contain;
+  background-color: #22252c
+}
+.backgorund .navbar-default{background-color: #3a3a3a00; border-color: #23232300;}
+.backgorund .navbar-default .navbar-nav>.active>a, .navbar-default .navbar-nav>.active>a:focus, .navbar-default .navbar-nav>.active>a:hover
+{border-bottom: 1px solid red;background-color: #23232300;}
+.backgorund .pragraghNav
+{ color: #86868675;margin-top: 372px;}
+.desginBy{
+  margin-top: 187px;
+  font-size: 15px;
+  line-height: 1.5em;
+  margin-bottom: 5px; color:#8d9293
+}
+.islamLink{color:red}
+.login {
+  margin-top: 195px;height: 500px;
+}
+.wid p {color:wheat;margin-top: 14px;}
+.wid {
+  width: 35%
+}
+.aa {
+  margin-top: 12px;color: #ff0303
+}

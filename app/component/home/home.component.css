@@ -1,0 +1,136 @@
+.backgorund
+{
+  background-image: url(../../../assets/images/background.jpg);
+  height: 900px;background-repeat: no-repeat;
+  background-size: contain;
+  background-color: #22252c
+}
+.backgorund .navbar-default{background-color: #3a3a3a00; border-color: #23232300;}
+.backgorund .navbar-default .navbar-nav>.active>a, .navbar-default .navbar-nav>.active>a:focus, .navbar-default .navbar-nav>.active>a:hover
+{border-bottom: 1px solid red;background-color: #23232300;}
+.backgorund .pragraghNav
+{ color: #86868675;margin-top: 372px;}
+.desginBy{
+  margin-top: 187px;
+  font-size: 15px;
+  line-height: 1.5em;
+  margin-bottom: 5px; color:#8d9293
+}
+.islamLink{color:red}
+/*section*/
+.section
+{background-color: #22252c;}
+.section .container .row .h3
+{color: aliceblue}
+.section .container .row{ }
+.section .container .row .pp{font-size: 15px;line-height: 1.5em;margin-bottom: 5px; color:#8d9293}
+.section .container .row .fa-glass-cheers:before{color :#f5593d;}
+.section .container .section-components {}
+.section .container .section-components .section-text{z-index: 2;color: #8b9091;margin-top: 35px;font-size: 1.3em; line-height:24px;}
+.section .container .section-components .section-core{color:#8f9495;}
+  .section .container .section-components .images-section .father
+{
+ overflow: hidden ;
+ background-color: #fff0;
+
+ z-index: 1;
+}
+.section .container .section-components .child-imaes-section1,
+.section .container .section-components .child-imaes-section2,
+.section .container .section-components .child-imaes-section3,
+.section .container .section-components .child-imaes-section4,
+.section .container .section-components .child-imaes-section5
+{
+  position: absolute;
+  width:193px;
+  z-index: 2;border-radius: 6px;
+  padding: 5px;
+  animation: shimmy 5s infinite;
+  animation-direction: alternate;
+  opacity: .7;
+  border-radius: 10px;
+}
+@keyframes shimmy {
+  0% {
+    transform: translate(0, 0);
+  }
+  100% {
+    transform: translate(20px, 70px);
+  }
+}
+.section .container .section-components .child-imaes-section1{left: -75px;  top: 186px;}
+.section .container .section-components .child-imaes-section2{top: 270px;left: 192px;}
+.section .container .section-components .child-imaes-section3{top: 79px;}
+.section .container .section-components .child-imaes-section4{ top: 58px;}
+.section .container .section-components .child-imaes-section5{top: 335px;}
+.section .text{
+  margin-top: 202px;
+}
+.section .images-section{
+  margin-top: 140PX
+}
+/***************************/
+.Cards{margin-top: 0px;background-color:#eee;    background-color: #caac90;
+height: 500px;}
+.Cards .images-phone{margin-top: -117px;overflow: hidden;}
+.Cards p {color: ivory; opacity: .6; line-height: 30px}
+.Cards .images-phone img{height: 740px;}
+/*****************/
+.content-areas .images-phone {}
+
+.content-areas .images-phone img{display: inline;}
+.content-areas .images-phone .img1{
+  border: 1px solid #6b6b6b;border-radius: 20px;box-shadow: 10px 10px 19px #979797;
+  height: 294px;
+  width: 216px;margin-left: -509px;
+  margin-top: 182px;
+
+}
+.content-areas .images-phone .img0{margin-top: -17%;box-shadow: 10px 10px 19px #979797;
+  height: 294px;    margin-left: 76px;border-radius: 20px;
+  border: 1px solid #6b6b6b;
+  width: 216px;}
+  .content-areas .images-phone .img0:hover{margin-top: -22%;transition:.3s ease-in-out}
+  .content-areas .images-phone .img1:hover{margin-top: 150px; transition:.3s ease-in-out}
+/************************/
+.pages {
+  margin-top: 160px;
+}
+.pages .pp
+{
+  font-size: 25px;line-height: 1.5em;margin-bottom: 5px; color:#8d9293;margin-top: 53px;
+
+}
+.pages .row img {padding: 0;margin: 0;width:98%;
+  box-shadow: 12px 2px 11px #c1c1c1;border-radius: 3px;
+  margin-top: 15px;
+  animation: pages 2s;
+}
+.pages .row img:hover{transition: .2s ;transform: scale(1.02);}
+.pages .row {margin-right: 0px;margin-left: 4px;}
+/**************************/
+.responsive-layout {background-color: #caac90;}
+.responsive-layout .row{margin-right:0}
+.responsive-layout p ,.pp{
+  color:white;}
+  .responsive-layout[_ngcontent-c1] .pp[_ngcontent-c1]{
+color: #1f1a1685;
+}
+.responsive-layout .fa-person-booth:before,.responsive-layout .fa-html5:before{    padding: 17px;}
+.responsive-layout .section-core
+{
+  font-size: 15px;
+  padding: 10px;
+  line-height: 33px;
+  color:#827c78a3;
+}
+.pages{
+  background-color:#151f20;
+}
+.pages  .desginBy
+{
+margin-top: 0;
+}
+.pages .btttn{
+  margin-top: -193px;
+}

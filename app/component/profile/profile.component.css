@@ -1,0 +1,57 @@
+.backgorund
+{
+  background-image: url(../../../assets/images/prfile/background1.jpg);
+  height: 1000px;background-repeat: no-repeat;
+  background-size: contain;background-color: #22252c
+
+}
+.backgorund .navbar-default{background-color: #3a3a3a00; border-color: #23232300;}
+.backgorund .navbar-default .navbar-nav>.active>a, .navbar-default .navbar-nav>.active>a:focus, .navbar-default .navbar-nav>.active>a:hover
+{border-bottom: 1px solid red;background-color: #23232300;}
+.backgorund .pragraghNav
+{color: white ;margin-top: 372px;}
+.desginBy{
+  margin-top: 187px;
+  font-size: 15px;
+  line-height: 1.5em;
+  margin-bottom: 5px; color:#8d9293
+}
+.islamLink{color:red}
+.islamDiv img{display: inline;    max-width: 150px;
+  border-radius: 50%;}
+.islamDiv{
+  margin-top: 301px;
+}
+.name{margin: 26px;}
+.jop {color:#4f4f4f}
+.detailes {
+  color :rgb(163, 159, 159);
+  font-size: 15px;
+  line-height: 1.5em;
+  margin-bottom: 25px;
+}
+.det
+
+{
+  width: 89%;
+  margin-left: 32px;
+  overflow: hidden;
+  margin-left: 32px;
+  opacity: .7;
+}
+.follow{margin-top: 38px}
+.li1
+{
+  margin-left: -163px;
+
+}
+.li2{
+  margin-top: -29px;
+}
+.pages .row img {padding: 0;margin: 0;width:98%;
+  box-shadow: 12px 2px 11px #c1c1c1;border-radius: 3px;
+  margin-top: 15px;
+  animation: pages 2s;
+}
+.pages .row img:hover{transition: .2s ;transform: scale(1.02);}
+.pages .row {margin-right: 0px;margin-left: 4px;}

@@ -1,0 +1,76 @@
+.backgorund
+{
+  background-image: url(../../../assets/images/prfile/about-us.jpg);
+  background-repeat: no-repeat;
+  background-size: contain;
+
+}
+.backgorund .navbar-default{background-color: #3a3a3a00; border-color: #23232300;}
+.backgorund .navbar-default .navbar-nav>.active>a, .navbar-default .navbar-nav>.active>a:focus, .navbar-default .navbar-nav>.active>a:hover
+{border-bottom: 1px solid red;background-color: #23232300;}
+.backgorund .pragraghNav
+{color: white ;margin-top: 372px;}
+.desginBy{
+  margin-top: 187px;
+  font-size: 15px;
+  line-height: 1.5em;
+  margin-bottom: 5px; color:#8d9293
+}
+.islamLink{color:red}
+.islamDiv img{display: inline;    max-width: 150px;
+  border-radius: 50%;}
+.islamDiv{
+  margin-top: 301px;
+}
+.name{margin: 26px;}
+.jop {color:#4f4f4f}
+.detailes {
+  color :rgb(163, 159, 159);
+  font-size: 15px;
+  line-height: 1.5em;
+  margin-bottom: 25px;
+}
+.about{margin-top:400px}
+.about .pp0{
+  margin-left:17px;margin-top:115px;opacity: .8;
+}
+.about .pp
+{
+  padding:20px;opacity:.7
+}
+.team-img img{max-width: 150px;
+  border-radius: 50%;margin-left: 96px;}
+  .team-img .links
+  {margin-left:100px;}
+  .team-img .links a i {
+    border-radius: 50%;padding: 2px;
+  }
+.pp3 {
+  margin: 70px;
+}
+.pp-info
+{
+  line-height: 27px;
+  margin-left: 23px;
+}
+.pp-infof
+{
+  width: 87%;
+}
+.team-info1,.team-info2,.team-info3{padding: 73px;
+  height: 339px;    border-radius: 28%;
+  box-shadow:-8px 13px 33px -10px #333277 ;
+}
+.team-info1{
+  background: #6ec7e0;
+}
+.team-info2{
+  background: #86d9ab;
+}
+.team-info3{
+  background: #fcd27b;
+}
+.team-info1:hover,.team-info2:hover,.team-info3:hover {
+  margin-top: -10px;transition: .2s ease-in-out;  box-shadow: -19px 49px 102px -24px #333277 ;
+}
+
